@@ -1,0 +1,9 @@
+Regulators	Fiber
+	agaR; agaB; agaC; agaD; agaI; agaS; kbaY
+araC; crp	araE; ygeA; araF; araG; araH
+crp	cytR; nagC; nagE; ycdZ
+crp	fucA; fucO; fucR; zraR
+crp; gntR	idnK; idnR
+crp; exuR	lgoR; uxuR
+crp	lsrA; lsrB; lsrC; lsrD; lsrF; lsrG; tam; lsrR; oxyR; rbsR
+crp	malI; mlc

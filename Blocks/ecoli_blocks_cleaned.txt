@@ -1,0 +1,92 @@
+Regulators	Fiber
+crp	aaeR; ampD; ampE; azuC; comR; cyaA; narQ; sohB; speC; spf; trxA; rof; yaeP; arfB; nlpE; yaeQ; yjeF; tsaE; amiB; mutL; miaA; hfq; hflX; hflK; hflC
+crp	aaeA; aaeB; aaeX; agp; cpdB; cstA; glgS; glpR; grpE; hofM; hofN; hofO; hofP; ivbL; ilvB; ilvN; uhpA; uhpB; uhpC; lacI; mcaS; mhpR; nadC; ompA; hofB; hofC; ppdD; preA; preT; raiA; rmf; priB; rplI; rpsF; rpsR; sfsA; dksA; gluQ; sxy; ubiG; ychH; yeiP; yeiW; yfiP; patZ; yibN; grxC; secB; gpsA; ykgR
+	accA; accD; fabI; fadR; yceD; rpmF; plsX; fabH; fabD; fabG; acpP; fabF
+fadR	accB; iclR
+arcA; fnr	ackA; pta; dcuC
+marA; rob; soxS	acrZ; inaA; nfo; nfsB
+crp; oxyR; rbsR	add; dsbG; gor; grxA; hemH; oxyS; trxC
+hns	adeD; adiY; chiA; gspA; gspB; hchA; hdfR; mdtJ; mdtI; rcsB; yjjP
+	agaR; agaB; agaC; agaD; agaI; agaS; kbaY
+lrp	alaA; yfbR; avtA; leuE; livJ; livF; livG; livH; livK; livM; lysU; sdaA
+lrp	alaE; kbl; tdh; yojI
+fis	alaW; alaX; argU; argW; argX; hisR; leuT; proM; aspV; flxA; glyU; leuP; leuQ; leuV; leuX; lptD; surA; pdxA; rsmA; apaG; apaH; lysT; lysW; valT; glnU; glnV; glnW; glnX; leuW; metT; metU; pheU; pheV; proK; proL; queA; serT; serX; glyT; thrT; thrU; tufB; tyrU; thrW; trmA; tpr; tyrT; tyrV; lysV; valU; valX; valY
+crp; fis	aldB; hupB
+allR	allA; allS; allB; gcl; glxK; glxR; hyi; ybbW; ybbY
+	alsR; rpiB
+	amiA; hemF; cmk; rpsA; ihfB; uspB
+	amn; mipA; phnC; phnD; phnE_1; phnE_2; phnF; phnG; phnH; phnI; phnJ; phnK; phnL; phnM; phnN; phnO; phnP; phoA; psiF; phoB; phoE; phoH; ydfH; yegH; yhjC; ytfK
+bolA	ampC; dacC
+araC; crp	araE; ygeA; araF; araG; araH
+arcA	arcZ; ydeA
+	argA; argB; argC; argH; argE; argF; argI; argR; artJ; artI; artM; artP; artQ; lysO
+argP; lrp	argO; lysP
+tyrR	aroF; tyrA; tyrB
+	aroH; trpA; trpB; trpC; trpD; trpE; trpL; trpR
+gadX	asnB; clpP; clpX; lon; ybaS; ybaT; uspE
+crp; fnr; narL	aspA; dcuA; dcuR
+	bacA; cpxP; cpxQ; cpxR; ftnB; ldtC; ldtD; ppiD; sbmA; yaiW; slt; dsbA; rdoA; xerD; dsbC; recJ; prfB; lysS; yccA; yebE; yidQ; kbp; yqaE; mzrA; yqjA
+cpxR	baeR; spy
+fnr	bcsA; bcsB; bcsZ; bcsC; fnrS; pdeF; pepT; pitA; ravA; viaA; cheB; cheR; cheY; cheZ; tap; tar; upp; uraA; xdhA; xdhB; xdhC; ydeJ; ytic; ytid; idlp; irad
+nsrR	bdcA; dkgB; grxD; mepH; mhpT; pgpC; tadA; rfe; rffC; rffG; rffH; rffM; rffT; wecB; wecC; wecE; wzxE; wzyE; wzzE; rybB; tehA; tehB; tsgA; ydbD; yeaE
+arcA; cra	betI; betT
+birA	bioA; bioB; bioC; bioD; bioF
+rcdA	bluF; ydeI
+phoP	borD; envY; ompT; mgrB; mgrR; mgtA; mgtL; pagp; rstA; ybjG
+fis	cbpA; cbpM; gltX; gyrB; msrA
+	cdaR; garD; gudD; gudP; gudX
+	cho; dinB; yafN; yafO; yafP; dinD; dinG; ybiB; dinQ; ftsK; hokE; insK; lexA; polB; ptrA; recB; recD; recA; recX; recN; recQ; dnaG; rpoD; rpsU; ruvA; ruvB; symE; tisB; umuC; umuD; uvrB; uvrD; uvrY; ybfE; ybgA; phr; ydjM; yebG
+crp; fur	cirA; entA; entB; entC; entE; entH; entD; fepA; fiu
+cueR	copA; cueO
+phoB	cra; pitB; sbcC; sbcD
+fur	crl_1; exbB; exbD; fepC; fepD; fepG; fhuA; fhuB; fhuC; fhuD; fhuE; gpmA; metJ; nohA; tfaQ; ydfN; ryhB; ygaC; yhhY; yjjZ
+hprR; phoB	cusA; cusB; cusC; cusF; cusR; yedX
+purR	cvpA; purF; ubiX; glrR; glnB; hflD; purB; lolB; ispE; prs; purC; purE; purK; purL; speA; speB
+cysB	cysC; cysD; cysN; cysK; tcyP; yciW; ygeH; yoaC
+crp	cytR; nagC; nagE; ycdZ
+argP	dapB; lysC
+	ddpA; ddpB; ddpC; ddpD; ddpF; ddpX; patA; potF; potG; potH; potI; yeaG; yeaH; yhdW; yhdX; yhdY; yhdZ
+marA	decR; mlaF; mlaE; mlaD; mlaC; mlaB; yncE
+csgD	dgcC; iraP; nlpA; wrbA; yccJ; yccT
+dicA	dicB; ydfD; ydfE; insD-7; intQ; dicC; ydfW; ydfX
+nsrR	dsdC; norR
+ompR	dtpA; omrA; omrB
+	ecpA; ecpR
+cpxR	efeU_1; efeU_2; cheA; cheW; motA; motB; mscM; psd; tsr; ung
+cra; crp	epd; fbaA; pgk; gapA; yeaD; mpl
+	erpA; iscR; rnlA; rnlB
+hns	evgA; nhaR
+fabR; fadR	fabA; fabB
+arcA; fadR	fadE; fadI; fadJ
+cra	fbaB; fruA; fruB; fruK; glk; envC; gpmM; yibQ; pfkA; ppc; pykF; pyrG; eno; tpiA
+soxS	fldB; pgi; ribA; ompN; ydbK
+metJ	folE; yeiB; metA; metC; metF
+marA; soxS	fpr; pqiA; pqiB; pqiC; rirA; waaQ; waaG; waaP; waaS; waaB; waaO; waaJ; waaY; waaZ; waaU
+crp	fucA; fucO; fucR; zraR
+yjjQ	gfcA; ybhL; dgcN; yfiB; yfiR; yciX; ymiA
+crp; fis	hupA; trg
+mlrA	ibaG; murA; obgE; rplU; rpmA; yhbE
+	ibpA; ibpB; htrE; yadV
+crp; gntR	idnK; idnR
+oxyR	flu; isrC; pth; ychF
+crp; exuR	lgoR; uxuR
+rcsB	lolA; rarA; osmB
+crp	lsrA; lsrB; lsrC; lsrD; lsrF; lsrG; tam; lsrR; oxyR; rbsR
+crp	malI; mlc
+crp	manA; yhfA
+	mngA; mngB; mngR
+nadR	nadA; pnuC; nadB
+	nimR; nimT
+fnr	ompX; rimM; rplS; rpsP; trmD; ychO; ysgA
+csgD	pepD; yhbS; yhbT
+	phoP; slyB
+pspf	pspA; pspB; pspC; pspD; pspE; pspG
+fur	purR; pyrC
+crp	rhaR; rhaS
+fis; lrp	alaT; ileT; rrfA; rrlA; rrsA; gltV; rrfE; rrlE; rrsE
+fis; hns; lrp	gltT; rrfB; rrlB; rrsB; gltU; rrfC; rrlC; rrsC; alaU; ileU; rrfD; rrfF; rrlD; rrsD; thrV; gltW; rrfG; rrlG; rrsG; alaV; ileV; rrfH; rrlH; rrsH
+arcA; lexA	ssb; uvrA
+	ttdA; ttdB; ttdT; ttdR
+pgrR	ycjG; mpaA; ycjY; ymjC; ymjD
+evgA	yegR; yegZ; frc; oxc; yfdE; yfdV; yfdX
+zur	ykgM; ykgO; znuA; znuB; znuC
