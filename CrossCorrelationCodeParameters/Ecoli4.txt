@@ -1,0 +1,4 @@
+Gene	FiberId	GroupId
+purR	83	1
+pyrC	83	1
+fur	83	1

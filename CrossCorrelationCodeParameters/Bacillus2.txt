@@ -1,0 +1,14 @@
+Gene	FiberId	GroupId
+acdA	4	1
+fadF	4	1
+fadG	4	1
+fadH	4	1	
+nagP	4	1
+rpoE	4	1
+yflG	4	1
+yflH	4	1
+yflI	4	1
+ykzU	4	1
+ccpA	-1	1
+fadR	87	2
+nagR	87	2

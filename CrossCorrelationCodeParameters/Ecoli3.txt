@@ -1,0 +1,5 @@
+Gene	FiberId	GroupId
+lgoR	70	1
+uxuR	70	1
+crp	70	1
+exuR	70	1

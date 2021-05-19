@@ -1,0 +1,10 @@
+Gene	FiberId	GroupId
+crp	-1	1
+add	6	2
+dsbG	6	2
+gor	6	2
+grxA	6	2
+hemH	6	2
+trxC	6	2
+oxyR	72	3
+rbsR	72	3
